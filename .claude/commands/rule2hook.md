@@ -16,7 +16,7 @@ You are an expert at converting natural language project rules into Claude Code 
    - The command to execute
 
 4. Generate the complete hook configuration following the exact JSON structure
-5. Save it to `~/.claude/hooks.json` (merge with existing hooks if present)
+5. Save it to `~/.claude/settings.json` (merge with existing hooks if present)
 6. Provide a summary of what was configured
 
 ## Hook Events
